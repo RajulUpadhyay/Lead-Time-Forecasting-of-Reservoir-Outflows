@@ -37,11 +37,17 @@ Implemented an ensemble method where past predictions were fed as additional fea
 **Model Evaluation:**
 
 Visualized training and testing loss plots to monitor model convergence.
+
 Performed inverse transformation on predictions to obtain real-world units.
+
 Generated predicted vs. observed plots and scatter plots with a 1:1 line for visual assessment.
+
 Employed performance metrics:
+
 Nash-Sutcliffe Efficiency (NSE): Measures agreement between predicted and observed values (1 indicates perfect match).
+
 Root Mean Squared Error (RMSE): Measures the magnitude of the error between predictions and observations.
+
 R-squared: Coefficient of determination, indicates the proportion of variance explained by the model.
 
 **Results and Conclusion:**
