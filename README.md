@@ -42,7 +42,7 @@ Generated predicted vs. observed plots and scatter plots with a 1:1 line for vis
 
 Employed performance metrics:
 
-**Nash-Sutcliffe Efficiency (NSE): **Measures agreement between predicted and observed values (1 indicates perfect match).
+**Nash-Sutcliffe Efficiency (NSE):** Measures agreement between predicted and observed values (1 indicates perfect match).
 
 **Root Mean Squared Error (RMSE):** Measures the magnitude of the error between predictions and observations.
 
